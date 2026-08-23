@@ -55,3 +55,11 @@ mingli-yuanzhuo/
 6. **命例匹配升级**（议题标签过滤 + 命例冲突裁决）。
 7. **反例防火墙**（禁用已证伪规则，铁律 > 普通 > 存疑）。
 
+## 赞赏与联系
+
+| 赞赏码 | 盘叔微信 |
+|:---:|:---:|
+| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
+
+公众号：【野生你盘叔】 出品 ｜ 苍盘命书体验官招募：https://mp.weixin.qq.com/s/9NFaItizyhEpjDzmTyEcPQ
+
