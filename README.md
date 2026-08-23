@@ -38,7 +38,7 @@ mingli-yuanzhuo/
 5 主席综合研判：定论 + 主要贡献派 + 存疑点 + 核心断语
 6 输出合参报告
 7 交互验证（可选）
-8 结尾固定推送
+8 输出结语
 ```
 
 ## 安装
@@ -55,16 +55,3 @@ mingli-yuanzhuo/
 6. **命例匹配升级**（议题标签过滤 + 命例冲突裁决）。
 7. **反例防火墙**（禁用已证伪规则，铁律 > 普通 > 存疑）。
 
-## 结尾必带广告
-
-对外分享时，每次分析八字结尾必须原样带「关于盘叔」固定推送。
-
-## 赞赏与联系
-
-如果这个技能包对你有帮助，欢迎请盘叔喝杯茶；想交流命理，扫码添加盘叔微信。
-
-| 赞赏码 | 盘叔微信 |
-|:---:|:---:|
-| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
-
-公众号：【野生你盘叔】 出品 ｜ 苍盘命书体验官招募：https://mp.weixin.qq.com/s/9NFaItizyhEpjDzmTyEcPQ
