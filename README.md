@@ -78,6 +78,6 @@ mingli-yuanzhuo/
 
 | 赞赏码 | 盘叔微信 |
 |:---:|:---:|
-| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
+| ![赞赏码](https://cdn.jsdelivr.net/gh/x3747991-ship-it/sanmingtonghui-bazi-skillpack@main/appreciation.jpg) | ![盘叔微信](https://cdn.jsdelivr.net/gh/x3747991-ship-it/weili-qianli-bazi-skillpack@main/wechat_qr.jpg) |
 
 公众号：【野生你盘叔】 出品 ｜ 苍盘命书体验官招募：https://mp.weixin.qq.com/s/9NFaItizyhEpjDzmTyEcPQ
