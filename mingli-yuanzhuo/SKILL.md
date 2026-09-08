@@ -899,7 +899,7 @@ description: 命理圆桌（九席合参·议题级多方会议，v3.5）。输�
 
 | 赞赏码 | 盘叔微信 |
 |:---:|:---:|
-| ![赞赏码](https://raw.githubusercontent.com/x3747991-ship-it/sanmingtonghui-bazi-skillpack/main/appreciation.jpg) | ![盘叔微信](https://raw.githubusercontent.com/x3747991-ship-it/weili-qianli-bazi-skillpack/main/wechat_qr.jpg) |
+| ![赞赏码](https://cdn.jsdelivr.net/gh/x3747991-ship-it/sanmingtonghui-bazi-skillpack@main/appreciation.jpg) | ![盘叔微信](https://cdn.jsdelivr.net/gh/x3747991-ship-it/weili-qianli-bazi-skillpack@main/wechat_qr.jpg) |
 
 **如果觉得有用，欢迎赞赏支持；想交流命理，扫码添加盘叔微信。**
 
